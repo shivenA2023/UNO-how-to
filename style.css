@@ -1,0 +1,33 @@
+h1 {
+  color: rgb(197, 0, 0);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h2 {
+  color: rgb(21, 177, 0);
+  text-decoration: underline;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(0, 0, 0);
+  width: 455px;
+  margin: 12px auto;
+  padding: 24px 42px;
+  border-radius: 49px;
+}
+
+a {
+  color: rgb(0, 16, 156);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+html {
+  background-color: rgb(0, 247, 255);
+}
